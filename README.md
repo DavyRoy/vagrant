@@ -37,7 +37,7 @@ vagrant up
 ```
 
 `Cкриншоты
-![vagrant_start](ссылка на скриншот 1)
+![vagrant_start](https://github.com/DavyRoy/vagrant/blob/main/vagrant_start/images/Vagrant_start.png)
 
 ---
 
@@ -67,7 +67,7 @@ vagrant up
 ```
 
 `Cкриншоты
-![vagrant_working](https://github.com/DavyRoy/docker/blob/main/my-node/images/docker-node.png)
+![vagrant_working](https://github.com/DavyRoy/vagrant/blob/main/vagrant_working/images/vagrant_working.png)
 
 ---
 
@@ -93,10 +93,10 @@ vagrant status
 ```
 
 `Cкриншоты
-![vagrant up](https://github.com/DavyRoy/docker/blob/main/docker-network/images/docker-network.png)
-![vagrant status](https://github.com/DavyRoy/docker/blob/main/docker-network/images/docker-network.png)
-![vagrant reload](https://github.com/DavyRoy/docker/blob/main/docker-network/images/docker-network.png)
-![vagrant destroy](https://github.com/DavyRoy/docker/blob/main/docker-network/images/docker-network.png)
+![vagrant up](https://github.com/DavyRoy/vagrant/blob/main/vagrant_command/images/vagrant%20up.png)
+![vagrant status](https://github.com/DavyRoy/vagrant/blob/main/vagrant_command/images/vagrant%20status.png)
+![vagrant reload](https://github.com/DavyRoy/vagrant/blob/main/vagrant_command/images/vagrant%20reload.png)
+![vagrant destroy](https://github.com/DavyRoy/vagrant/blob/main/vagrant_command/images/vagrant%20destroy.png)
 
 ---
 
@@ -135,7 +135,7 @@ nano Vagrantfile
 
 `Скриншоты
 ![vagrant_network](ссылка на скриншот)`
-![vagrant_network](ссылка на скриншот)`
+![vagrant_network](https://github.com/DavyRoy/vagrant/blob/main/vagrant_network/images/vagrant_working.png)`
 
 ---
 
@@ -230,10 +230,10 @@ vagrant destroy
 ```
 
 `Скриншоты
-![vagrant_web](ссылка на скриншот)
-![vagrant_db](ссылка на скриншот)
-![vagrant_halt](ссылка на скриншот)
-![vagrant_destro](ссылка на скриншот)
+![vagrant_web](https://github.com/DavyRoy/vagrant/blob/main/vagrant_micro/images/vagrant%20web.png)
+![vagrant_db](https://github.com/DavyRoy/vagrant/blob/main/vagrant_micro/images/vagrant%20db.png)
+![vagrant_halt](https://github.com/DavyRoy/vagrant/blob/main/vagrant_micro/images/vagrant%20halt.png)
+![vagrant_destro](https://github.com/DavyRoy/vagrant/blob/main/vagrant_micro/images/vagrant%20destro.png)
 
 ---
 
@@ -301,6 +301,6 @@ curl 192.168.56.10
 ```
 
 `Скриншоты
-![vagrant_end](ссылка на скриншот)
+![vagrant_end](https://github.com/DavyRoy/vagrant/blob/main/vagrant_end/images/vagrant_end.png)
 
 ---
